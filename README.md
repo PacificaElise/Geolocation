@@ -2,10 +2,9 @@
 
 ![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
 
-About The Project
 IP Address Tracker app helping to search for any IP addresses or domains and see the key information and location.
 
-Built with
+##Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flex
